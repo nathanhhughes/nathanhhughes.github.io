@@ -4,7 +4,7 @@ layout: default
 
 # Research Interests
 
-My research interests in 3D spatial perception for robotics; specifically how to create actionable and hierarchical semantic representations.
+My research interests lie in 3D spatial perception for robotics; specifically how to create actionable and hierarchical semantic representations.
 A good example of this is [Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems](https://journals.sagepub.com/doi/10.1177/02783649241229725), and the associated software system [Hydra](https://github.com/MIT-SPARK/Hydra).
 A video demonstration of Hydra is below.
 
