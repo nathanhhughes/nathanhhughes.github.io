@@ -25,7 +25,7 @@ title: Nathan Hughes
 email: na26933@mit.edu
 description: >-
   PhD student at MIT
-baseurl: /  # the subpath of your site, e.g. /blog
+baseurl: ''  # the subpath of your site, e.g. /blog
 url: https://nathanhhugehs.github.io
 repository: nathanhhughes/nathanhhughes.github.io
 include: [_pages]
