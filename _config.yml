@@ -1,3 +1,4 @@
+---
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -17,34 +18,32 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+markdown: redcarpet
+highlighter: pygments
+permalink: pretty
 title: Nathan Hughes
 email: na26933@mit.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal website for Nathan Hughes
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-repository: "nathanhhughes/nathanhhughes.github.io"
-include: ["_pages"]
-github_username:  nathanhhughes
+description: >-
+  PhD student at MIT
+baseurl: /  # the subpath of your site, e.g. /blog
+url: ''  # the base hostname & protocol for your site, e.g. http://example.com
+repository: nathanhhughes/nathanhhughes.github.io
+include: [_pages]
+github_username: nathanhhughes
 author:
-  name: "Nathan Hughes"
-  avatar: "/assets/images/bio-photo.jpg"
+  name: Nathan Hughes
+  avatar: /assets/images/bio-photo.jpg
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/nathanhhughes"
-
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      author_profile: true
-
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/nathanhhughes
 # Build settings
-theme: minima
-
+plugins: [jekyll-gist, jekyll-sitemap, jekyll-seo-tag]
+safe: true
+whitelist:
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
