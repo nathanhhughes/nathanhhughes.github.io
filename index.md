@@ -15,7 +15,7 @@ A video demonstration of Hydra is below.
 # Bio
 
 I am currently a PhD student at MIT in the AeroAstro department, affiliated with the Laboratory for Information and Decision Systems (LIDS).
-I work in the SPARK Lab and advised by Prof. Luca Carlone.
+I work in the SPARK Lab and am advised by Prof. Luca Carlone.
 I received my M.S. from MIT in 2022.
 Before starting my graduate studies at MIT in 2020, I was at MIT Lincoln Laboratory between 2016 and 2020.
 I received my B.S. in Computer Science and Robotics Engineering from WPI in 2016.
