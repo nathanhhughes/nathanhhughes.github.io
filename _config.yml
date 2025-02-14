@@ -26,7 +26,7 @@ email: na26933@mit.edu
 description: >-
   PhD student at MIT
 baseurl: /  # the subpath of your site, e.g. /blog
-url: ''  # the base hostname & protocol for your site, e.g. http://example.com
+url: https://nathanhhugehs.github.io
 repository: nathanhhughes/nathanhhughes.github.io
 include: [_pages]
 github_username: nathanhhughes
