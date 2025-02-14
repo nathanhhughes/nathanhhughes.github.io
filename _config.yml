@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "nathanhhughes/nathanhhughes.github.io"
+include: ["_pages"]
 github_username:  nathanhhughes
 author:
   name: "Nathan Hughes"
@@ -34,11 +35,15 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nathanhhughes"
 
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: true
+
 # Build settings
-theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
+theme: minima
 
 # Exclude from processing.
 # The following items will not be processed, by default.

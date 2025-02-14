@@ -1,0 +1,56 @@
+- author: Wang, Weiying and Jadhav, Ninad and Vohs, Paul and Hughes, Nathan and Mazumder,
+    Mark and Gil, Stephanie
+  title: Active rendezvous for multi-robot pose graph optimization using sensing over
+    Wi-Fi
+  venue: The International Symposium of Robotics Research
+  year: '2019'
+- author: Ravichandran, Zachary and Peng, Lisa and Hughes, Nathan and Griffith, J
+    Daniel and Carlone, Luca
+  title: 'Hierarchical representations and explicit memory: Learning effective navigation
+    policies on 3D scene graphs using graph neural networks'
+  venue: 2022 International Conference on Robotics and Automation (ICRA)
+  year: '2022'
+- author: Fishman, Joshua and Ubellacker, Samuel and Hughes, Nathan and Carlone, Luca
+  title: 'Dynamic Grasping with a" Soft" Drone: From Theory to Practice'
+  venue: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  year: '2021'
+- author: Rosinol, Antoni and Violette, Andrew and Abate, Marcus and Hughes, Nathan
+    and Chang, Yun and Shi, Jingnan and Gupta, Arjun and Carlone, Luca
+  title: 'Kimera: From SLAM to spatial perception with 3D dynamic scene graphs'
+  venue: The International Journal of Robotics Research
+  year: '2021'
+- author: Hughes, Nathan and Chang, Yun and Carlone, Luca
+  title: 'Hydra: a Real-time Spatial Perception System for 3d Scene Graph Construction
+    and Optimization'
+  venue: 'Proceedings of Robotics: Science and Systems. New York City, NY, USA, http://dx.
+    doi. org/10.15607/RSS'
+  year: '2022'
+- author: Chang, Yun and Hughes, Nathan and Ray, Aaron and Carlone, Luca
+  title: 'Hydra-multi: Collaborative online construction of 3d scene graphs with multi-robot
+    teams'
+  venue: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  year: '2023'
+- author: Hughes, Nathan and Chang, Yun and Hu, Siyi and Talak, Rajat and Abdulhai,
+    Rumaisa and Strader, Jared and Carlone, Luca
+  title: 'Foundations of Spatial Perception for Robotics: Hierarchical Representations
+    and Real-time Systems'
+  venue: The International Journal of Robotics Research
+  year: '2024'
+- author: Strader, Jared and Hughes, Nathan and Chen, William and Speranzon, Alberto
+    and Carlone, Luca
+  title: Indoor and outdoor 3d scene graph generation via language-enabled spatial
+    ontologies
+  venue: IEEE Robotics and Automation Letters
+  year: '2024'
+- author: Abate, Marcus and Chang, Yun and Hughes, Nathan and Carlone, Luca
+  title: 'Kimera2: Robust and Accurate Metric-Semantic SLAM in the Real World'
+  venue: International Symposium on Experimental Robotics
+  year: '2023'
+- author: '**Maggio, Dominic** and **Chang, Yun** and **Hughes, Nathan** and Trang,
+    Matthew and Griffith, Dan and Dougherty, Carlyn and Cristofalo, Eric and Schmid,
+    Lukas and Carlone, Luca'
+  title: 'Clio: Real-time Task-Driven Open-Set 3D Scene Graphs'
+  venue: IEEE Robotics and Automation Letters
+  year: '2024'
